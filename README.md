@@ -1,5 +1,5 @@
 # Sorting-Algorithm-Visualizer
 
-You can access my app here: https://cocky-pike-bded25.netlify.app/
+You can access the current version of my application here: https://cocky-pike-bded25.netlify.app/
 
-I am still working on bug fixes!
+This project is still under development as I am working on bug fixes and a responsive design.
