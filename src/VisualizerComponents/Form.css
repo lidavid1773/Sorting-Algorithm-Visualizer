@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #fffad4;
+}
+
+.ui {
+  position: absolute;
+  background-color: #ff93a3;
+  width: 400px;
+  height: 450px;
+  left: 65px;
+  top: 26%;
+  border-radius: 10px;
+}
+
+.title {
+  font-weight: bold;
+  position: absolute;
+  top: 50px;
+  left: 68px;
+  font-family: "Roboto";
+  font-weight: 700;
+  background-color: #ff93a3;
+}
+
+.selectTitle {
+  background-color: #ff93a3;
+  font-family: "Roboto";
+  font-weight: 600;
+}
+
+.options {
+  background-color: #ff93a3;
+}
+
+.dropdown {
+  background-color: white;
+  font-family: "Roboto";
+  font-weight: 500;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.dropdown:hover {
+  font-weight: bold;
+}
+
+.generateButton {
+  position: absolute;
+  top: 120px;
+  left: 125px;
+  padding: 10px;
+  border-radius: 10px;
+  font-family: "Roboto";
+  font-weight: 500;
+  background-color: white;
+}
+
+.generateButton:hover {
+  font-weight: bold;
+}
+
+.selectForm {
+  font-weight: 600;
+  text-align: center;
+  position: absolute;
+  top: 200px;
+  left: 100px;
+  font-family: "Roboto";
+  font-weight: 600;
+}
+
+.startButton {
+  position: absolute;
+  top: 130px;
+  left: 45px;
+  padding: 10px;
+  border-radius: 10px;
+  font-weight: 500;
+  background-color: white;
+  font-family: "Roboto";
+}
+
+.startButton:hover {
+  font-weight: bold;
+}
