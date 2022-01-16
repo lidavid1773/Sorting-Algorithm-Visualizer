@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/97780203/149644110-7c40c154-2ee8-45a2-
 To set up this project locally, follow these steps:
 1. Clone the repository.
 2. Delete package-lock.json file from project folder.
-3. Re-install dependencies by going to project folder directory and running **npm install** in terminal.
+3. Re-install dependencies by going to project folder directory and run **npm install** in terminal.
 4. Run **npm start** in terminal.
 5. Enjoy!
 
@@ -20,4 +20,4 @@ To set up this project locally, follow these steps:
 
 This project is still under development as I am working on bug fixes and a responsive design.
 
-I am adding more functionality such as being able to adjust the sorting speed and the size of the array.
+I am also adding more functionality such as being able to adjust the sorting speed and the size of the array!
