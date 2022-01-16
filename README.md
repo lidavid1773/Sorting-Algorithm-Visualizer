@@ -10,9 +10,11 @@ https://user-images.githubusercontent.com/97780203/149644110-7c40c154-2ee8-45a2-
 
 # Getting Started:
 To set up this project locally, follow these steps:
-1. .
-2. ..
-3. ...
+1. Clone the repository.
+2. Delete package-lock.json file from project folder.
+3. Re-install dependencies by going to project folder directory and running **npm install** in terminal.
+4. Run **npm start** in terminal.
+5. Enjoy!
 
 # Note
 
